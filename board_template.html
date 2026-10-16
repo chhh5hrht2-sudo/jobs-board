@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>My Jobs Board</title>
+<style>
+:root {
+  --bg: #f6f5f0; --surface: #ffffff; --text: #1d2320; --muted: #5d6762; --line: #dfe2dc;
+  --accent: #1f6b4f; --accent-soft: #e2f0e8; --new: #b54708; --new-soft: #fdf0e3;
+  --applied: #2552a3; --applied-soft: #e6edfa; --warn: #a12c2c; --warn-soft: #fbe9e9;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #131715; --surface: #1c211e; --text: #e6ebe7; --muted: #9aa59f; --line: #2e3531;
+    --accent: #6fcf9f; --accent-soft: #1f3329; --new: #f5a35c; --new-soft: #3a2817;
+    --applied: #8fb2f0; --applied-soft: #1d2a42; --warn: #f08b8b; --warn-soft: #3a1f1f;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 1.6rem; margin: 0 0 4px; letter-spacing: -0.01em; }
+.sub { color: var(--muted); margin: 0 0 20px; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin-bottom: 16px; }
+.tab { background: none; border: 0; padding: 10px 14px; font: inherit; color: var(--muted);
+  cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.tab[aria-selected="true"] { color: var(--text); border-bottom-color: var(--accent); font-weight: 600; }
+.controls { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+@media (max-width: 640px) { .controls { grid-template-columns: 1fr; } }
+input, select { width: 100%; padding: 9px 10px; font: inherit; color: var(--text);
+  background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+.count { color: var(--muted); font-size: .9rem; margin: 4px 0 12px; }
+.job { background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  padding: 14px 16px; margin-bottom: 8px; display: flex; gap: 12px; align-items: flex-start; }
+.job.closed { opacity: .6; }
+.job-main { flex: 1; min-width: 0; }
+.job-title { font-weight: 600; color: var(--text); text-decoration: none; overflow-wrap: anywhere; }
+.job-title:hover { text-decoration: underline; color: var(--accent); }
+.meta { color: var(--muted); font-size: .88rem; margin-top: 2px; }
+.badges { margin-top: 6px; display: flex; flex-wrap: wrap; gap: 6px; }
+.badge { font-size: .75rem; padding: 2px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.badge.new { background: var(--new-soft); color: var(--new); font-weight: 600; }
+.badge.closed { background: var(--warn-soft); color: var(--warn); }
+.badge.scan { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+.actions { display: flex; flex-direction: column; gap: 4px; flex-shrink: 0; }
+.act { font: inherit; font-size: .8rem; padding: 4px 10px; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface); color: var(--muted); }
+.act.on.interested { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.act.on.applied { background: var(--applied-soft); color: var(--applied); border-color: var(--applied); }
+.act.on.hidden { background: var(--warn-soft); color: var(--warn); border-color: var(--warn); }
+@media (max-width: 640px) { .job { flex-direction: column; } .actions { flex-direction: row; } }
+table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--line);
+  border-radius: 10px; overflow: hidden; font-size: .9rem; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-weight: 600; font-size: .8rem; }
+td a { color: var(--accent); overflow-wrap: anywhere; }
+.problem { color: var(--warn); }
+.note { color: var(--muted); font-size: .88rem; margin: 0 0 12px; }
+.empty { color: var(--muted); padding: 32px 0; text-align: center; }
+.table-wrap { overflow-x: auto; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>My Jobs Board</h1>
+  <p class="sub" id="sub"></p>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" aria-selected="true" data-tab="jobs">Jobs</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="sources">Sources</button>
+  </div>
+
+  <section id="jobs-view">
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search job title, organisation or location">
+      <select id="sector"><option value="">All sectors</option></select>
+      <select id="show">
+        <option value="open">All open jobs</option>
+        <option value="new">New in the last 7 days</option>
+        <option value="interested">Marked interested</option>
+        <option value="applied">Marked applied</option>
+        <option value="hidden">Hidden</option>
+        <option value="closed">Recently closed</option>
+      </select>
+    </div>
+    <div class="count" id="count"></div>
+    <div id="list"></div>
+  </section>
+
+  <section id="sources-view" hidden>
+    <p class="note">What happened when each organisation was checked on the last run. Problems are listed first: check those organisations by hand, or fix their address in organisations.csv.</p>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Organisation</th><th>Result</th><th>Page checked</th></tr></thead>
+      <tbody id="src"></tbody>
+    </table></div>
+  </section>
+</div>
+
+<script>
+const DATA = __BOARD_DATA__;
+const KEY = "jobboard-marks";
+let marks = {};
+try { marks = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) { marks = {}; }
+function saveMarks() { try { localStorage.setItem(KEY, JSON.stringify(marks)); } catch (e) {} }
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const day = s => new Date(s + "T00:00:00Z");
+const fmt = s => day(s).toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+const updated = day(DATA.updated);
+const isNew = j => j.first_seen > DATA.first_run && (updated - day(j.first_seen)) / 864e5 <= 7;
+
+const openJobs = DATA.jobs.filter(j => j.status === "open");
+const newCount = openJobs.filter(isNew).length;
+document.getElementById("sub").textContent =
+  `${openJobs.length} open jobs across ${new Set(openJobs.map(j => j.org)).size} organisations · ` +
+  `${newCount} new this week · updated ${fmt(DATA.updated)}`;
+
+const sectors = [...new Set(DATA.jobs.map(j => j.sector).filter(Boolean))].sort();
+const sectorSel = document.getElementById("sector");
+sectors.forEach(s => sectorSel.insertAdjacentHTML("beforeend", `<option>${esc(s)}</option>`));
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const sector = sectorSel.value;
+  const show = document.getElementById("show").value;
+  let jobs = DATA.jobs.filter(j => {
+    const m = marks[j.id];
+    if (show === "closed") { if (j.status !== "closed") return false; }
+    else if (j.status !== "open") return false;
+    if (show === "hidden") { if (m !== "hidden") return false; }
+    else if (m === "hidden") return false;
+    if (show === "new" && !isNew(j)) return false;
+    if ((show === "interested" || show === "applied") && m !== show) return false;
+    if (sector && j.sector !== sector) return false;
+    if (q && !`${j.title} ${j.org} ${j.location}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+  jobs.sort((a, b) => (b.first_seen.localeCompare(a.first_seen)) || a.org.localeCompare(b.org) || a.title.localeCompare(b.title));
+  document.getElementById("count").textContent = `Showing ${jobs.length} job${jobs.length === 1 ? "" : "s"}`;
+  const list = document.getElementById("list");
+  if (!jobs.length) { list.innerHTML = `<div class="empty">No jobs match these filters.</div>`; return; }
+  list.innerHTML = jobs.map(j => {
+    const m = marks[j.id] || "";
+    const badges = [
+      isNew(j) ? `<span class="badge new">New</span>` : "",
+      j.status === "closed" ? `<span class="badge closed">Closed ${fmt(j.closed_on)}</span>` : "",
+      j.sector ? `<span class="badge">${esc(j.sector)}</span>` : "",
+      j.source === "page scan" ? `<span class="badge scan" title="Found by scanning the careers page; may occasionally be a non-job link">page scan</span>` : ""
+    ].join("");
+    const btn = (k, label) => `<button class="act ${k} ${m === k ? "on" : ""}" data-id="${j.id}" data-mark="${k}">${m === k ? "✓ " : ""}${label}</button>`;
+    return `<article class="job ${j.status}">
+      <div class="job-main">
+        <a class="job-title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+        <div class="meta">${esc(j.org)}${j.location ? " · " + esc(j.location) : ""} · first seen ${fmt(j.first_seen)}</div>
+        <div class="badges">${badges}</div>
+      </div>
+      <div class="actions">${btn("interested", "Interested")}${btn("applied", "Applied")}${btn("hidden", "Hide")}</div>
+    </article>`;
+  }).join("");
+}
+
+document.getElementById("list").addEventListener("click", e => {
+  const b = e.target.closest(".act"); if (!b) return;
+  const { id, mark } = b.dataset;
+  marks[id] = marks[id] === mark ? undefined : mark;
+  if (!marks[id]) delete marks[id];
+  saveMarks(); render();
+});
+["q", "sector", "show"].forEach(id => document.getElementById(id).addEventListener("input", render));
+
+const src = [...DATA.sources].sort((a, b) => (!!b.error - !!a.error) || (a.found === 0) - (b.found === 0) || a.name.localeCompare(b.name));
+document.getElementById("src").innerHTML = src.map(s => {
+  const result = s.error ? `<span class="problem">${esc(s.error)}</span>`
+    : s.found === 0 ? `<span class="problem">No jobs found</span> (${esc(s.method)}) — check by hand`
+    : `${s.found} job${s.found === 1 ? "" : "s"} · ${esc(s.method)}`;
+  return `<tr><td>${esc(s.name)}<div class="meta">${esc(s.sector)}</div></td><td>${result}</td>
+    <td>${s.checked ? `<a href="${esc(s.checked)}" target="_blank" rel="noopener">${esc(s.checked.replace(/^https?:\/\//, ""))}</a>` : "—"}</td></tr>`;
+}).join("");
+
+document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => {
+  document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-selected", x === t));
+  document.getElementById("jobs-view").hidden = t.dataset.tab !== "jobs";
+  document.getElementById("sources-view").hidden = t.dataset.tab !== "sources";
+}));
+render();
+</script>
+</body>
+</html>
