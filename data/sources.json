@@ -1,0 +1,911 @@
+[
+ {
+  "name": "ActionAid UK",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.actionaid.org.uk/about-us/people-and-culture/actionaid-job-vacancies",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Airlabs",
+  "sector": "Clean tech",
+  "checked": "https://airlabs.com",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website didn't respond"
+ },
+ {
+  "name": "Avaaz",
+  "sector": "Campaigns & policy",
+  "checked": "https://secure.avaaz.org/campaign/en/hiring/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Bonsucro",
+  "sector": "Food & agriculture",
+  "checked": "https://bonsucro.com",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Bristol City Council",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.bristol.gov.uk/residents/jobs-and-training/jobs-with-the-council",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Business for Nature",
+  "sector": "Nature",
+  "checked": "https://www.businessfornature.org/news/join-us-at-biodiversity-cop17",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "C40 Cities",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.c40.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Cafédirect",
+  "sector": "Food & agriculture",
+  "checked": "https://www.cafedirect.co.uk",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Capitals Coalition",
+  "sector": "Nature",
+  "checked": "https://capitalscoalition.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Carbon Tracker",
+  "sector": "Finance",
+  "checked": "https://carbontracker.org",
+  "method": "recruitment software (workable)",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Carbon Trust",
+  "sector": "Energy",
+  "checked": "https://www.carbontrust.com/who-we-are/our-career-opportunities",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "CarbonScape",
+  "sector": "Clean tech",
+  "checked": "https://www.carbonscape.com/careers",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "CARE International",
+  "sector": "Finance",
+  "checked": "https://www.care-international.org/careers",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Changing Markets Foundation",
+  "sector": "Fashion & circularity",
+  "checked": "https://changingmarkets.org/careers/",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Circle Economy",
+  "sector": "Fashion & circularity",
+  "checked": "https://www.circle-economy.com",
+  "method": "recruitment software (personio)",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "ClientEarth",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.clientearth.org/join-us/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "CNG Fuels",
+  "sector": "Transport",
+  "checked": "https://cngfuels.com",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Co-wheels Car Club",
+  "sector": "Transport",
+  "checked": "https://www.co-wheels.org.uk/about-us/careers",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Company Shop Group",
+  "sector": "Food & agriculture",
+  "checked": "https://www.companyshopgroup.co.uk/about-us/careers",
+  "method": "recruitment software (workable)",
+  "found": 13,
+  "open": 13,
+  "error": ""
+ },
+ {
+  "name": "Computomics",
+  "sector": "Food & agriculture",
+  "checked": "https://computomics.com/company/career.html",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Connected Kerb",
+  "sector": "Transport",
+  "checked": "https://www.connectedkerb.com",
+  "method": "recruitment software (workable)",
+  "found": 3,
+  "open": 3,
+  "error": ""
+ },
+ {
+  "name": "Copernicus / ECMWF",
+  "sector": "Science",
+  "checked": "https://www.ecmwf.int/en/about/jobs",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "CottonConnect",
+  "sector": "Fashion & circularity",
+  "checked": "https://cottonconnect.org/get-in-touch/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Crowther Lab",
+  "sector": "Nature",
+  "checked": "https://crowtherlab.com",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website didn't respond"
+ },
+ {
+  "name": "Cumbria Action for Sustainability",
+  "sector": "Campaigns & policy",
+  "checked": "https://futureproofcumbria.org.uk/about-us/jobs/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "EAT",
+  "sector": "Food & agriculture",
+  "checked": "https://eatforum.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "EDF Renewables UK",
+  "sector": "Energy",
+  "checked": "https://www.edf-powersolutions.uk/careers/",
+  "method": "page scan",
+  "found": 4,
+  "open": 4,
+  "error": ""
+ },
+ {
+  "name": "EIT Climate-KIC",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.climate-kic.org",
+  "method": "recruitment software (recruitee)",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "EIT Food",
+  "sector": "Food & agriculture",
+  "checked": "https://www.eitfood.eu/jobs",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Engenie",
+  "sector": "Transport",
+  "checked": "https://engenie.co.uk",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website didn't respond"
+ },
+ {
+  "name": "FareShare",
+  "sector": "Food & agriculture",
+  "checked": "https://careers.felix.org/jobs#ed-3763904197",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Flourishing Diversity",
+  "sector": "Nature",
+  "checked": "https://www.flourishingdiversity.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website didn't respond"
+ },
+ {
+  "name": "Friends of the Earth",
+  "sector": "Campaigns & policy",
+  "checked": "https://friendsoftheearth.uk/jobs",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Global Alliance for the Future of Food",
+  "sector": "Food & agriculture",
+  "checked": "https://futureoffood.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Global Canopy",
+  "sector": "Nature",
+  "checked": "https://globalcanopy.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Global FoodBanking Network",
+  "sector": "Food & agriculture",
+  "checked": "https://www.foodbanking.org/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Global Legal Action Network (GLAN)",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.glanlaw.org/careers",
+  "method": "page scan",
+  "found": 3,
+  "open": 3,
+  "error": ""
+ },
+ {
+  "name": "Global Maritime Forum",
+  "sector": "Transport",
+  "checked": "https://globalmaritimeforum.org/careers/",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Global Organic Textile Standard (GOTS)",
+  "sector": "Fashion & circularity",
+  "checked": "https://global-standard.org/about/jobs",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Good Energy",
+  "sector": "Energy",
+  "checked": "https://www.goodenergy.co.uk/about-us/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Green Alliance",
+  "sector": "Campaigns & policy",
+  "checked": "https://greenalliance.teamtailor.com/jobs",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Green Economy Coalition",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.greeneconomycoalition.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Gresham House",
+  "sector": "Finance",
+  "checked": "https://greshamhouse.com",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "GRIDSERVE",
+  "sector": "Transport",
+  "checked": "https://www.gridserve.com",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Hodmedod's",
+  "sector": "Food & agriculture",
+  "checked": "https://hodmedods.co.uk/pages/work-for-us",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Hubbub",
+  "sector": "Fashion & circularity",
+  "checked": "https://hubbub.org.uk",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Industrial Transition Accelerator",
+  "sector": "Energy",
+  "checked": "https://industrialtransitionaccelerator.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website didn't respond"
+ },
+ {
+  "name": "InfluenceMap",
+  "sector": "Finance",
+  "checked": "https://influencemap.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Insure Our Future",
+  "sector": "Finance",
+  "checked": "https://global.insure-our-future.com",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Integrity Council for the Voluntary Carbon Market",
+  "sector": "Finance",
+  "checked": "https://icvcm.org/about-us/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "IUCN",
+  "sector": "Nature",
+  "checked": "https://hrms.iucn.org/iresy/index.cfm?event=vac.showOpenList",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Invinity Energy Systems",
+  "sector": "Energy",
+  "checked": "https://invinity.com/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Jordans Cereals",
+  "sector": "Food & agriculture",
+  "checked": "https://careers.abfgrocery.com/Jordans/search/?q=&locationsearch=&searchResultView=LIST",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Julie's Bicycle",
+  "sector": "Campaigns & policy",
+  "checked": "https://juliesbicycle.org/about-us/jobs-at-jb/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "LDES Council",
+  "sector": "Energy",
+  "checked": "https://www.ldescouncil.com",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "London Climate Action Week",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.londonclimateactionweek.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Mission Innovation",
+  "sector": "Energy",
+  "checked": "https://mission-innovation.net",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "National Energy System Operator (NESO)",
+  "sector": "Energy",
+  "checked": "https://www.neso.energy/careers",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "National Wildlife Federation",
+  "sector": "Nature",
+  "checked": "https://www.nwf.org/About-Us/Careers",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Natracare",
+  "sector": "Fashion & circularity",
+  "checked": "https://www.natracare.com/work-with-us/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Nature Friendly Farming Network",
+  "sector": "Food & agriculture",
+  "checked": "https://www.nffn.org.uk",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Nature4Climate",
+  "sector": "Nature",
+  "checked": "https://nature4climate.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "NatureMetrics",
+  "sector": "Nature",
+  "checked": "https://naturemetrics.jobs.personio.de/",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Northern Powergrid",
+  "sector": "Energy",
+  "checked": "https://www.northernpowergrid.com",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Oceana UK",
+  "sector": "Ocean",
+  "checked": "https://uk.oceana.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "One Acre Fund",
+  "sector": "Food & agriculture",
+  "checked": "https://oneacrefund.org/careers",
+  "method": "page scan",
+  "found": 44,
+  "open": 44,
+  "error": ""
+ },
+ {
+  "name": "Organix",
+  "sector": "Food & agriculture",
+  "checked": "https://www.organix.com/work-with-us",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Pivot Power",
+  "sector": "Energy",
+  "checked": "https://www.edf-powersolutions.uk/careers/",
+  "method": "page scan",
+  "found": 4,
+  "open": 4,
+  "error": ""
+ },
+ {
+  "name": "Rathbones Greenbank",
+  "sector": "Finance",
+  "checked": "https://www.rathbones.com/en-gb/wealth-management/careers",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Regen10",
+  "sector": "Food & agriculture",
+  "checked": "https://regen10.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Restor",
+  "sector": "Nature",
+  "checked": "https://restor.eco",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "Ripple Effect (formerly Send a Cow)",
+  "sector": "Food & agriculture",
+  "checked": "https://rippleeffect.org/careers/job-applicant-privacy-notice/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Riversimple",
+  "sector": "Transport",
+  "checked": "https://www.riversimple.com/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Roundtable on Sustainable Palm Oil (RSPO)",
+  "sector": "Food & agriculture",
+  "checked": "https://rspo.org/careers/",
+  "method": "page scan",
+  "found": 6,
+  "open": 6,
+  "error": ""
+ },
+ {
+  "name": "Science Based Targets initiative",
+  "sector": "Campaigns & policy",
+  "checked": "https://sciencebasedtargets.org/about-us/join-our-team",
+  "method": "page scan",
+  "found": 3,
+  "open": 3,
+  "error": ""
+ },
+ {
+  "name": "SHE Changes Climate",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.shechangesclimate.org",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "SmartestEnergy",
+  "sector": "Energy",
+  "checked": "https://www.smartestenergy.com/en_US/careers/join-us/",
+  "method": "page scan",
+  "found": 2,
+  "open": 2,
+  "error": ""
+ },
+ {
+  "name": "SSE Renewables",
+  "sector": "Energy",
+  "checked": "https://www.sserenewables.com/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Stockholm International Water Institute",
+  "sector": "Nature",
+  "checked": "https://siwi.org/about-siwi/work-with-us",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Surfers Against Sewage",
+  "sector": "Ocean",
+  "checked": "https://www.sas.org.uk",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Sustainable Energy for All",
+  "sector": "Energy",
+  "checked": "https://www.seforall.org/get-involved/jobs-procurements",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Sustainable Soils Alliance",
+  "sector": "Food & agriculture",
+  "checked": "https://sustainablesoils.org/our-work/work-with-us/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Synchronicity Earth",
+  "sector": "Nature",
+  "checked": "https://www.synchronicityearth.org/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "The B Team",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.bteam.org/jobs",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "The Climate Coalition",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.theclimatecoalition.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "The Elders",
+  "sector": "Campaigns & policy",
+  "checked": "https://theelders.org/job-opportunities",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "The Gaia Foundation",
+  "sector": "Nature",
+  "checked": "https://gaiafoundation.org/jobs-internships/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "The Nature Conservancy",
+  "sector": "Nature",
+  "checked": "https://careers.tnc.org/us/en",
+  "method": "page scan",
+  "found": 3,
+  "open": 3,
+  "error": ""
+ },
+ {
+  "name": "The Rockefeller Foundation",
+  "sector": "Food & agriculture",
+  "checked": "https://www.rockefellerfoundation.org/about-us/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "The Woodland Trust",
+  "sector": "Nature",
+  "checked": "https://www.woodlandtrust.org.uk/about-us/working-with-us/jobs-and-vacancies/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Thrive Renewables",
+  "sector": "Energy",
+  "checked": "https://www.thriverenewables.co.uk/careers",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Toast Brewing",
+  "sector": "Food & agriculture",
+  "checked": "https://www.toastbrewing.com",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": "Couldn't find a careers page link on the homepage"
+ },
+ {
+  "name": "TRAID",
+  "sector": "Fashion & circularity",
+  "checked": "https://traid.org.uk",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "Triodos Bank UK",
+  "sector": "Finance",
+  "checked": "https://www.triodos.co.uk/downloads/recruitment-privacy-statement?id=160d7fe1b359",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "UNDO",
+  "sector": "Clean tech",
+  "checked": "https://un-do.com/about-us/careers/",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "Uplift",
+  "sector": "Campaigns & policy",
+  "checked": "https://upliftuk.org/jobs",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Wärtsilä",
+  "sector": "Energy",
+  "checked": "https://www.wartsila.com/careers",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ },
+ {
+  "name": "WBCSD",
+  "sector": "Campaigns & policy",
+  "checked": "https://www.wbcsd.org/careers/",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Wildlife Conservation Society (WCS)",
+  "sector": "Nature",
+  "checked": "https://www.wcs.org/about-us/careers",
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
+  "error": ""
+ },
+ {
+  "name": "Whale and Dolphin Conservation",
+  "sector": "Ocean",
+  "checked": "https://uk.whales.org",
+  "method": "",
+  "found": 0,
+  "open": 0,
+  "error": "Website returned an error (403)"
+ },
+ {
+  "name": "WWF-UK",
+  "sector": "Nature",
+  "checked": "https://www.wwf.org.uk/jobs",
+  "method": "page scan",
+  "found": 1,
+  "open": 1,
+  "error": ""
+ }
+]
