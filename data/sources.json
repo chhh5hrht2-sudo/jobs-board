@@ -1,7 +1,7 @@
 [
  {
   "name": "ActionAid UK",
-  "sector": "Campaigns & policy",
+  "sector": "Humanitarian aid",
   "checked": "https://www.actionaid.org.uk/about-us/people-and-culture/actionaid-job-vacancies",
   "method": "page scan",
   "found": 1,
@@ -9,17 +9,8 @@
   "error": ""
  },
  {
-  "name": "Airlabs",
-  "sector": "Clean tech",
-  "checked": "https://airlabs.com",
-  "method": "",
-  "found": 0,
-  "open": 0,
-  "error": "Website didn't respond"
- },
- {
   "name": "Avaaz",
-  "sector": "Campaigns & policy",
+  "sector": "Humanitarian aid",
   "checked": "https://secure.avaaz.org/campaign/en/hiring/",
   "method": "page scan",
   "found": 0,
@@ -27,63 +18,27 @@
   "error": ""
  },
  {
-  "name": "Bonsucro",
-  "sector": "Food & agriculture",
-  "checked": "https://bonsucro.com",
-  "method": "",
-  "found": 0,
-  "open": 0,
-  "error": "Website returned an error (403)"
- },
- {
-  "name": "Bristol City Council",
-  "sector": "Campaigns & policy",
-  "checked": "https://www.bristol.gov.uk/residents/jobs-and-training/jobs-with-the-council",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
-  "name": "Business for Nature",
+  "name": "Fauna & Flora",
   "sector": "Nature",
-  "checked": "https://www.businessfornature.org/news/join-us-at-biodiversity-cop17",
+  "checked": "https://www.fauna-flora.org/career/",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 5,
+  "open": 5,
   "error": ""
  },
  {
   "name": "C40 Cities",
   "sector": "Campaigns & policy",
-  "checked": "https://www.c40.org",
+  "checked": "https://www.c40.org/careers/",
   "method": "",
   "found": 0,
   "open": 0,
   "error": "Website returned an error (403)"
  },
  {
-  "name": "Cafédirect",
-  "sector": "Food & agriculture",
-  "checked": "https://www.cafedirect.co.uk",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
- },
- {
-  "name": "Capitals Coalition",
-  "sector": "Nature",
-  "checked": "https://capitalscoalition.org",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
- },
- {
   "name": "Carbon Tracker",
-  "sector": "Finance",
-  "checked": "https://carbontracker.org",
+  "sector": "Carbon",
+  "checked": "https://apply.workable.com/tracker-group/?lng=en",
   "method": "recruitment software (workable)",
   "found": 0,
   "open": 0,
@@ -99,18 +54,9 @@
   "error": ""
  },
  {
-  "name": "CarbonScape",
-  "sector": "Clean tech",
-  "checked": "https://www.carbonscape.com/careers",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
   "name": "CARE International",
-  "sector": "Finance",
-  "checked": "https://www.care-international.org/careers",
+  "sector": "Humanitarian aid",
+  "checked": "https://www.careinternational.org.uk/work-with-us/",
   "method": "page scan",
   "found": 0,
   "open": 0,
@@ -118,7 +64,7 @@
  },
  {
   "name": "Changing Markets Foundation",
-  "sector": "Fashion & circularity",
+  "sector": "Sustainable business",
   "checked": "https://changingmarkets.org/careers/",
   "method": "page scan",
   "found": 1,
@@ -127,8 +73,8 @@
  },
  {
   "name": "Circle Economy",
-  "sector": "Fashion & circularity",
-  "checked": "https://www.circle-economy.com",
+  "sector": "Sustainable business",
+  "checked": "https://circle-economy.jobs.personio.com/",
   "method": "recruitment software (personio)",
   "found": 0,
   "open": 0,
@@ -136,144 +82,18 @@
  },
  {
   "name": "ClientEarth",
-  "sector": "Campaigns & policy",
-  "checked": "https://www.clientearth.org/join-us/",
+  "sector": "Legal",
+  "checked": "https://jobs.clientearth.org/",
   "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": ""
- },
- {
-  "name": "CNG Fuels",
-  "sector": "Transport",
-  "checked": "https://cngfuels.com",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
- },
- {
-  "name": "Co-wheels Car Club",
-  "sector": "Transport",
-  "checked": "https://www.co-wheels.org.uk/about-us/careers",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
-  "name": "Company Shop Group",
-  "sector": "Food & agriculture",
-  "checked": "https://www.companyshopgroup.co.uk/about-us/careers",
-  "method": "recruitment software (workable)",
-  "found": 13,
-  "open": 13,
-  "error": ""
- },
- {
-  "name": "Computomics",
-  "sector": "Food & agriculture",
-  "checked": "https://computomics.com/company/career.html",
-  "method": "page scan",
-  "found": 1,
-  "open": 1,
-  "error": ""
- },
- {
-  "name": "Connected Kerb",
-  "sector": "Transport",
-  "checked": "https://www.connectedkerb.com",
-  "method": "recruitment software (workable)",
-  "found": 3,
-  "open": 3,
-  "error": ""
- },
- {
-  "name": "Copernicus / ECMWF",
-  "sector": "Science",
-  "checked": "https://www.ecmwf.int/en/about/jobs",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
-  "name": "CottonConnect",
-  "sector": "Fashion & circularity",
-  "checked": "https://cottonconnect.org/get-in-touch/",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
-  "name": "Crowther Lab",
-  "sector": "Nature",
-  "checked": "https://crowtherlab.com",
-  "method": "",
-  "found": 0,
-  "open": 0,
-  "error": "Website didn't respond"
- },
- {
-  "name": "Cumbria Action for Sustainability",
-  "sector": "Campaigns & policy",
-  "checked": "https://futureproofcumbria.org.uk/about-us/jobs/",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
-  "name": "EAT",
-  "sector": "Food & agriculture",
-  "checked": "https://eatforum.org",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
- },
- {
-  "name": "EDF Renewables UK",
-  "sector": "Energy",
-  "checked": "https://www.edf-powersolutions.uk/careers/",
-  "method": "page scan",
-  "found": 4,
-  "open": 4,
   "error": ""
  },
  {
   "name": "EIT Climate-KIC",
   "sector": "Campaigns & policy",
-  "checked": "https://www.climate-kic.org",
+  "checked": "https://www.climate-kic.org/get-involved/careers/",
   "method": "recruitment software (recruitee)",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
-  "name": "EIT Food",
-  "sector": "Food & agriculture",
-  "checked": "https://www.eitfood.eu/jobs",
-  "method": "page scan",
-  "found": 0,
-  "open": 0,
-  "error": ""
- },
- {
-  "name": "Engenie",
-  "sector": "Transport",
-  "checked": "https://engenie.co.uk",
-  "method": "",
-  "found": 0,
-  "open": 0,
-  "error": "Website didn't respond"
- },
- {
-  "name": "FareShare",
-  "sector": "Food & agriculture",
-  "checked": "https://careers.felix.org/jobs#ed-3763904197",
-  "method": "page scan",
   "found": 0,
   "open": 0,
   "error": ""
@@ -407,11 +227,11 @@
  {
   "name": "Hubbub",
   "sector": "Fashion & circularity",
-  "checked": "https://hubbub.org.uk",
-  "method": "",
+  "checked": "https://hubbub.org.uk/work-with-us",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "Industrial Transition Accelerator",
@@ -489,10 +309,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://www.ldescouncil.com",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "London Climate Action Week",
@@ -688,8 +508,8 @@
   "sector": "Energy",
   "checked": "https://www.smartestenergy.com/en_US/careers/join-us/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -831,10 +651,10 @@
   "name": "TRAID",
   "sector": "Fashion & circularity",
   "checked": "https://traid.org.uk",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "Triodos Bank UK",
@@ -894,10 +714,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "WWF-UK",
