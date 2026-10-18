@@ -22,8 +22,8 @@
   "sector": "Nature",
   "checked": "https://www.fauna-flora.org/career/",
   "method": "page scan",
-  "found": 5,
-  "open": 5,
+  "found": 6,
+  "open": 6,
   "error": ""
  },
  {
@@ -309,10 +309,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://www.ldescouncil.com",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
+  "error": "Website returned an error (403)"
  },
  {
   "name": "London Climate Action Week",
@@ -651,10 +651,10 @@
   "name": "TRAID",
   "sector": "Fashion & circularity",
   "checked": "https://traid.org.uk",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Triodos Bank UK",
@@ -714,10 +714,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
+  "error": "Website returned an error (403)"
  },
  {
   "name": "WWF-UK",
