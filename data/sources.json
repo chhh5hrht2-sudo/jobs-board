@@ -227,11 +227,11 @@
  {
   "name": "Hubbub",
   "sector": "Fashion & circularity",
-  "checked": "https://hubbub.org.uk/work-with-us",
-  "method": "page scan",
+  "checked": "https://hubbub.org.uk",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Industrial Transition Accelerator",
