@@ -22,8 +22,8 @@
   "sector": "Nature",
   "checked": "https://www.fauna-flora.org/career/",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 5,
+  "open": 5,
   "error": ""
  },
  {
@@ -227,11 +227,11 @@
  {
   "name": "Hubbub",
   "sector": "Fashion & circularity",
-  "checked": "https://hubbub.org.uk",
-  "method": "",
+  "checked": "https://hubbub.org.uk/work-with-us",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "Industrial Transition Accelerator",
