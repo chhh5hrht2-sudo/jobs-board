@@ -227,11 +227,11 @@
  {
   "name": "Hubbub",
   "sector": "Fashion & circularity",
-  "checked": "https://hubbub.org.uk/work-with-us",
-  "method": "page scan",
+  "checked": "https://hubbub.org.uk",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Industrial Transition Accelerator",
@@ -416,11 +416,11 @@
  {
   "name": "Organix",
   "sector": "Food & agriculture",
-  "checked": "https://www.organix.com/work-with-us",
-  "method": "page scan",
+  "checked": "https://www.organix.com",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (503)"
  },
  {
   "name": "Pivot Power",
@@ -651,10 +651,10 @@
   "name": "TRAID",
   "sector": "Fashion & circularity",
   "checked": "https://traid.org.uk",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "Triodos Bank UK",
@@ -714,10 +714,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "WWF-UK",
