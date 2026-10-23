@@ -57,10 +57,10 @@
   "name": "CARE International",
   "sector": "Humanitarian aid",
   "checked": "https://www.careinternational.org.uk/work-with-us/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Changing Markets Foundation",
@@ -148,8 +148,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.glanlaw.org/careers",
   "method": "page scan",
-  "found": 3,
-  "open": 3,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -227,11 +227,11 @@
  {
   "name": "Hubbub",
   "sector": "Fashion & circularity",
-  "checked": "https://hubbub.org.uk",
-  "method": "",
+  "checked": "https://hubbub.org.uk/work-with-us",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "Industrial Transition Accelerator",
@@ -416,11 +416,11 @@
  {
   "name": "Organix",
   "sector": "Food & agriculture",
-  "checked": "https://www.organix.com",
-  "method": "",
+  "checked": "https://www.organix.com/work-with-us",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (503)"
+  "error": ""
  },
  {
   "name": "Pivot Power",
@@ -651,10 +651,10 @@
   "name": "TRAID",
   "sector": "Fashion & circularity",
   "checked": "https://traid.org.uk",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Triodos Bank UK",
@@ -714,10 +714,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": "Couldn't find a careers page link on the homepage"
+  "error": "Website returned an error (403)"
  },
  {
   "name": "WWF-UK",
