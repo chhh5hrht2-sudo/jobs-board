@@ -57,10 +57,10 @@
   "name": "CARE International",
   "sector": "Humanitarian aid",
   "checked": "https://www.careinternational.org.uk/work-with-us/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "Changing Markets Foundation",
@@ -274,8 +274,8 @@
   "sector": "Nature",
   "checked": "https://hrms.iucn.org/iresy/index.cfm?event=vac.showOpenList",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -508,8 +508,8 @@
   "sector": "Energy",
   "checked": "https://www.smartestenergy.com/en_US/careers/join-us/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -679,8 +679,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://upliftuk.org/jobs",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
