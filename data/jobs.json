@@ -776,7 +776,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "1419b178e881": {
    "org": "One Acre Fund",
@@ -936,7 +937,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "b75614b91257": {
    "org": "Science Based Targets initiative",
@@ -947,7 +949,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "36dece91d395": {
    "org": "Science Based Targets initiative",
@@ -958,7 +961,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "b564cd79f9f4": {
    "org": "SmartestEnergy",
@@ -969,7 +973,8 @@
    "sector": "Energy",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "dbe755080a6e": {
    "org": "SmartestEnergy",
@@ -1036,7 +1041,8 @@
    "sector": "Clean tech",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "faeed750152c": {
    "org": "Wärtsilä",
@@ -1081,7 +1087,8 @@
    "sector": "Nature",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "8833eacf9436": {
    "org": "Fauna & Flora",
@@ -1092,7 +1099,8 @@
    "sector": "Nature",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "1cc09feac0c3": {
    "org": "Fauna & Flora",
@@ -1138,7 +1146,8 @@
    "sector": "Energy",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "dc2821e5ad32": {
    "org": "Fauna & Flora",
@@ -1237,7 +1246,8 @@
    "sector": "Nature",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "8083c338b3bf": {
    "org": "One Acre Fund",
@@ -1270,7 +1280,8 @@
    "sector": "Energy",
    "source": "page scan",
    "last_seen": "2026-10-26",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-10-26"
   },
   "c8988f97da71": {
    "org": "Uplift",
@@ -1290,6 +1301,281 @@
    "url": "https://careers.edfenergy.com/job/senior-electrical-engineer-south-england-region-in-london-jid-1676",
    "location": "",
    "sector": "Energy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "bbc8476963cd": {
+   "org": "Science Based Targets initiative",
+   "first_seen": "2026-10-26",
+   "title": "Join Engagement Program",
+   "url": "https://sciencebasedtargetsnetwork.org/company/join-engagement-program/",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "af3f4df74f9c": {
+   "org": "LDES Council",
+   "first_seen": "2026-10-26",
+   "title": "Global Director of Policy & Markets",
+   "url": "https://ldescouncil.com/jobs/global-director-of-policy-markets/",
+   "location": "",
+   "sector": "Energy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "f02eff86317f": {
+   "org": "SmartestEnergy",
+   "first_seen": "2026-10-26",
+   "title": "Senior Market Risk Analyst - Energy",
+   "url": "https://group.smartestenergy.com/job-listing/?id=7979362",
+   "location": "",
+   "sector": "Energy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "e2dd257cc1c5": {
+   "org": "SmartestEnergy",
+   "first_seen": "2026-10-26",
+   "title": "Hedge & Derivatives Accountant",
+   "url": "https://group.smartestenergy.com/job-listing/?id=7993566",
+   "location": "",
+   "sector": "Energy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "c433b3d77ae3": {
+   "org": "SmartestEnergy",
+   "first_seen": "2026-10-26",
+   "title": "Debt Management Executive x 3",
+   "url": "https://group.smartestenergy.com/job-listing/?id=8277588",
+   "location": "",
+   "sector": "Energy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "8ac9db437317": {
+   "org": "SmartestEnergy",
+   "first_seen": "2026-10-26",
+   "title": "Energy Operations Executive 14 month FTC",
+   "url": "https://group.smartestenergy.com/job-listing/?id=8069738",
+   "location": "",
+   "sector": "Energy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "e6187d866800": {
+   "org": "One Acre Fund",
+   "first_seen": "2026-10-26",
+   "title": "Tupande Biochar Compliance Specialist (Fixed-Term)",
+   "url": "https://oneacrefund.org/vacancies/tupande-biochar-compliance-specialist-fixed-term",
+   "location": "",
+   "sector": "Food & agriculture",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "178e00e28a62": {
+   "org": "Whale and Dolphin Conservation",
+   "first_seen": "2026-10-26",
+   "title": "Child safety policy",
+   "url": "https://uk.whales.org/wp-content/uploads/sites/6/2025/05/WDC-Child-Protection-Policy-2106.pdf",
+   "location": "",
+   "sector": "Ocean",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "a0a7162f48a9": {
+   "org": "Whale and Dolphin Conservation",
+   "first_seen": "2026-10-26",
+   "title": "Safeguarding policy",
+   "url": "https://uk.whales.org/wp-content/uploads/sites/6/2025/05/WDC-Safeguarding-Policy-6219.pdf",
+   "location": "",
+   "sector": "Ocean",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "8a37c89db91d": {
+   "org": "Practical Action",
+   "first_seen": "2026-10-26",
+   "title": "Chief Executive Officer Salary: Discussed with successful candidate Closing Date: Thu, 12th Nov 26 Read more",
+   "url": "https://practicalaction.org/careers/vacancies/chief-executive-officer/",
+   "location": "",
+   "sector": "Campaigns & Policy",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "b8720e19ec6b": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "Soils/Senior Soils Specialist",
+   "url": "https://soils.org.uk/vacancy/soils-senior-soils-specialist/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "f3672b7cc7de": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "Graduate Soils Specialist",
+   "url": "https://soils.org.uk/vacancy/graduate-soils-specialist/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "dad3d6cbafc8": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "Defra Research and Development Fellowship Programme",
+   "url": "https://soils.org.uk/vacancy/defra-research-and-development-fellowship-programme/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "00170d5a44a5": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "SENIOR SCIENTIST, SOIL MICROBIOLOGY",
+   "url": "https://soils.org.uk/vacancy/senior-scientist-soil-microbiology/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "a01896ba90ec": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "Soils Services Specialist",
+   "url": "https://soils.org.uk/vacancy/soils-services-specialist/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "9cfdd56644b2": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "Senior Soil Scientist",
+   "url": "https://soils.org.uk/vacancy/senior-soil-scientist-jacobs/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "3ff41cc6808f": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "Regional Group Chair",
+   "url": "https://soils.org.uk/vacancy/regional-group-chairs/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "63d8c9821fdd": {
+   "org": "British Society of Soil Science",
+   "first_seen": "2026-10-26",
+   "title": "Society Trustee - Digital Communications",
+   "url": "https://soils.org.uk/vacancy/society-trustee/",
+   "location": "",
+   "sector": "Environment",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "bb62a3f2bb42": {
+   "org": "Rainforest Foundation UK",
+   "first_seen": "2026-10-26",
+   "title": "Senior Policy Advisor",
+   "url": "https://www.rainforestfoundationuk.org/jobs/senior-policy-advisor/",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "5dc0b0832f1b": {
+   "org": "Rainforest Foundation UK",
+   "first_seen": "2026-10-26",
+   "title": "Forests & Rights Senior Campaigner",
+   "url": "https://www.rainforestfoundationuk.org/jobs/forests-rights-senior-campaigner/",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "a9779b4701af": {
+   "org": "The British Council",
+   "first_seen": "2026-10-26",
+   "title": "Senior Executive Assistant to Chair and trustees",
+   "url": "https://careers.britishcouncil.org/careers?start=0&location=London,++England,++United+Kingdom&pid=563705892983190&sort_by=distance&filter_distance=16&filter_include_remote=1&filter_include_relocation=0",
+   "location": "London",
+   "sector": "Campaigns & policy",
+   "source": "job data in page",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "0cea1a8af00d": {
+   "org": "WaterAid",
+   "first_seen": "2026-10-26",
+   "title": "Philanthropy Manager",
+   "url": "https://www.charityjob.co.uk/jobs/wateraid/philanthropy-manager/1088574",
+   "location": "",
+   "sector": "humanitarian aid",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "f1640735479f": {
+   "org": "WaterAid",
+   "first_seen": "2026-10-26",
+   "title": "Trust Manager",
+   "url": "https://www.charityjob.co.uk/jobs/wateraid/trust-manager/1087955",
+   "location": "",
+   "sector": "humanitarian aid",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "8f11d64620cc": {
+   "org": "WaterAid",
+   "first_seen": "2026-10-26",
+   "title": "Senior Water Industry Partnerships Officer, Scotland and Northern Ireland",
+   "url": "https://www.charityjob.co.uk/jobs/wateraid/senior-water-industry-partnerships-officer-scotland-and-northern-ireland/1087196",
+   "location": "",
+   "sector": "humanitarian aid",
+   "source": "page scan",
+   "last_seen": "2026-10-26",
+   "status": "open"
+  },
+  "a2aa00f8fe66": {
+   "org": "WaterAid",
+   "first_seen": "2026-10-26",
+   "title": "Fundraising and Events Assistant",
+   "url": "https://www.charityjob.co.uk/jobs/wateraid/fundraising-and-events-assistant/1087193",
+   "location": "",
+   "sector": "humanitarian aid",
    "source": "page scan",
    "last_seen": "2026-10-26",
    "status": "open"
