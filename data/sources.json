@@ -309,10 +309,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://www.ldescouncil.com",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "London Climate Action Week",
@@ -427,8 +427,8 @@
   "sector": "Energy",
   "checked": "https://www.edf-powersolutions.uk/careers/",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 2,
+  "open": 2,
   "error": ""
  },
  {
@@ -651,10 +651,10 @@
   "name": "TRAID",
   "sector": "Fashion & circularity",
   "checked": "https://traid.org.uk",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "Triodos Bank UK",
@@ -714,10 +714,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "WWF-UK",
