@@ -112,8 +112,8 @@
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -139,8 +139,8 @@
   "sector": "Energy",
   "checked": "https://www.seforall.org/get-involved/jobs-procurements",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -173,11 +173,11 @@
  {
   "name": "TRAID",
   "sector": "Fashion & circularity",
-  "checked": "https://traid.org.uk/jobs-at-traid/",
+  "checked": "https://traid.org.uk",
   "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "Gresham House",
@@ -274,8 +274,8 @@
   "sector": "Food & agriculture",
   "checked": "https://oneacrefund.org/careers",
   "method": "page scan",
-  "found": 45,
-  "open": 45,
+  "found": 46,
+  "open": 46,
   "error": ""
  },
  {
@@ -301,8 +301,8 @@
   "sector": "Food & agriculture",
   "checked": "https://rspo.org/careers/",
   "method": "page scan",
-  "found": 6,
-  "open": 6,
+  "found": 7,
+  "open": 7,
   "error": ""
  },
  {
@@ -461,11 +461,11 @@
  {
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
-  "checked": "https://uk.whales.org/about/job-vacancies/",
+  "checked": "https://uk.whales.org",
   "method": "page scan",
-  "found": 2,
+  "found": 0,
   "open": 2,
-  "error": ""
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "Global Maritime Forum",
