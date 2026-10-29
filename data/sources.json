@@ -274,8 +274,8 @@
   "sector": "Food & agriculture",
   "checked": "https://oneacrefund.org/careers",
   "method": "page scan",
-  "found": 46,
-  "open": 46,
+  "found": 47,
+  "open": 47,
   "error": ""
  },
  {
@@ -732,10 +732,10 @@
   "name": "Royal Society for the Protection of Birds (RSPB)",
   "sector": "Nature",
   "checked": "https://www.rspb.org.uk/careers/vacancies-listing",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Synchronicity Earth",
