@@ -732,10 +732,10 @@
   "name": "Royal Society for the Protection of Birds (RSPB)",
   "sector": "Nature",
   "checked": "https://www.rspb.org.uk/careers/vacancies-listing",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website didn't respond"
+  "error": ""
  },
  {
   "name": "Synchronicity Earth",
