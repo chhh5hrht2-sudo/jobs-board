@@ -111,10 +111,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
-  "method": "page scan",
-  "found": 1,
+  "method": "",
+  "found": 0,
   "open": 1,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "National Energy System Operator (NESO)",
@@ -173,11 +173,11 @@
  {
   "name": "TRAID",
   "sector": "Fashion & circularity",
-  "checked": "https://traid.org.uk/jobs-at-traid/",
-  "method": "page scan",
+  "checked": "https://traid.org.uk",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Gresham House",
@@ -301,8 +301,8 @@
   "sector": "Food & agriculture",
   "checked": "https://rspo.org/careers/",
   "method": "page scan",
-  "found": 7,
-  "open": 7,
+  "found": 5,
+  "open": 5,
   "error": ""
  },
  {
@@ -355,8 +355,8 @@
   "sector": "Nature",
   "checked": "https://hrms.iucn.org/iresy/index.cfm?event=vac.showOpenList",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -461,11 +461,11 @@
  {
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
-  "checked": "https://uk.whales.org/about/job-vacancies/",
-  "method": "page scan",
-  "found": 2,
+  "checked": "https://uk.whales.org",
+  "method": "",
+  "found": 0,
   "open": 2,
-  "error": ""
+  "error": "Website returned an error (520)"
  },
  {
   "name": "Global Maritime Forum",
@@ -796,8 +796,8 @@
   "sector": "humanitarian aid",
   "checked": "https://www.charityjob.co.uk/organisation/wateraid#org-profile-jobs",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
