@@ -155,11 +155,11 @@
  {
   "name": "Hubbub",
   "sector": "Fashion & circularity",
-  "checked": "https://hubbub.org.uk/work-with-us",
-  "method": "page scan",
+  "checked": "https://hubbub.org.uk",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Natracare",
@@ -355,8 +355,8 @@
   "sector": "Nature",
   "checked": "https://hrms.iucn.org/iresy/index.cfm?event=vac.showOpenList",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -688,8 +688,8 @@
   "sector": "Nature",
   "checked": "https://www.fauna-flora.org/career/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -724,8 +724,8 @@
   "sector": "Nature",
   "checked": "https://www.rainforestfoundationuk.org/about-us/jobs-opportunities/",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -768,10 +768,10 @@
   "name": "The Climate Group",
   "sector": "Campaigns & policy",
   "checked": "https://climategroup.peoplehr.accessacloud.com/jobboard",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "UK Green Building Council",
