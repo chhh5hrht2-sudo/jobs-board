@@ -9,7 +9,7 @@
    "location": "",
    "sector": "Humanitarian aid",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "ac3aabb7767f": {
@@ -20,7 +20,7 @@
    "location": "",
    "sector": "Sustainable business",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "a8ce8c50b2ff": {
@@ -286,7 +286,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "9ba46c2ed0f6": {
@@ -297,7 +297,7 @@
    "location": "",
    "sector": "Transport",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "b3ad6b402c71": {
@@ -331,7 +331,7 @@
    "location": "",
    "sector": "Food & agriculture",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "d02f2d39228e": {
@@ -367,7 +367,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "a34d23785245": {
    "org": "One Acre Fund",
@@ -414,7 +415,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "8b3fb4310e58": {
    "org": "One Acre Fund",
@@ -425,7 +427,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "5f63e157e06c": {
    "org": "One Acre Fund",
@@ -436,7 +439,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "917b1a1c31b1": {
    "org": "One Acre Fund",
@@ -459,7 +463,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "aa4715de8963": {
    "org": "One Acre Fund",
@@ -470,7 +475,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "23ccb9ce7c0b": {
    "org": "One Acre Fund",
@@ -481,7 +487,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "aad6185d9661": {
    "org": "One Acre Fund",
@@ -492,7 +499,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "92af1faebe21": {
    "org": "One Acre Fund",
@@ -503,7 +511,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "8f7445eb3202": {
    "org": "One Acre Fund",
@@ -514,7 +523,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "72cf9b1763c7": {
    "org": "One Acre Fund",
@@ -525,7 +535,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "658df2dedb09": {
    "org": "One Acre Fund",
@@ -536,7 +547,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "eda700bc0b0a": {
    "org": "One Acre Fund",
@@ -547,7 +559,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "053aa0f82cd6": {
    "org": "One Acre Fund",
@@ -570,7 +583,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "4eac4715702e": {
    "org": "One Acre Fund",
@@ -581,7 +595,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "69951a9e92ef": {
    "org": "One Acre Fund",
@@ -592,7 +607,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "759e5054bea5": {
    "org": "One Acre Fund",
@@ -603,7 +619,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "9fe30a1d8ffb": {
    "org": "One Acre Fund",
@@ -614,7 +631,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "dc58d56a607f": {
    "org": "One Acre Fund",
@@ -625,7 +643,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "60e9e628414d": {
    "org": "One Acre Fund",
@@ -636,7 +655,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "8c600244fe9a": {
    "org": "One Acre Fund",
@@ -647,7 +667,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "c94a36fbf63a": {
    "org": "One Acre Fund",
@@ -670,7 +691,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "8f61f0347fab": {
    "org": "One Acre Fund",
@@ -681,7 +703,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "0950fbc0ff21": {
    "org": "One Acre Fund",
@@ -692,7 +715,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "299525b3e98d": {
    "org": "One Acre Fund",
@@ -739,7 +763,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "665ea248b7cf": {
    "org": "One Acre Fund",
@@ -750,7 +775,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "41322dcd3804": {
    "org": "One Acre Fund",
@@ -761,7 +787,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "ea8f3c3f6b9d": {
    "org": "One Acre Fund",
@@ -772,7 +799,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "0951b4ace392": {
    "org": "One Acre Fund",
@@ -783,7 +811,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "1419b178e881": {
    "org": "One Acre Fund",
@@ -794,7 +823,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "af0c51e01800": {
    "org": "One Acre Fund",
@@ -1072,7 +1102,8 @@
    "sector": "Nature",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "adc63a47c5d0": {
    "org": "Fauna & Flora",
@@ -1143,7 +1174,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "547397b2efbc": {
    "org": "SmartestEnergy",
@@ -1165,7 +1197,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "a3949199c5da": {
@@ -1176,7 +1208,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "6930702fe487": {
@@ -1200,7 +1232,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "eded1d8cb934": {
    "org": "One Acre Fund",
@@ -1211,7 +1244,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "86b0ee7a8ac9": {
    "org": "One Acre Fund",
@@ -1222,7 +1256,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "863a393714b1": {
    "org": "One Acre Fund",
@@ -1233,7 +1268,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "19ae3bc93f45": {
    "org": "One Acre Fund",
@@ -1244,7 +1280,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "457f02feb006": {
    "org": "Fauna & Flora",
@@ -1302,7 +1339,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "161e96f031b8": {
@@ -1324,7 +1361,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "af3f4df74f9c": {
@@ -1346,7 +1383,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "e2dd257cc1c5": {
@@ -1357,7 +1394,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "c433b3d77ae3": {
@@ -1368,7 +1405,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "8ac9db437317": {
@@ -1379,7 +1416,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "e6187d866800": {
@@ -1391,7 +1428,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "178e00e28a62": {
    "org": "Whale and Dolphin Conservation",
@@ -1423,7 +1461,7 @@
    "location": "",
    "sector": "Campaigns & Policy",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "b8720e19ec6b": {
@@ -1434,7 +1472,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "f3672b7cc7de": {
@@ -1445,7 +1483,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "dad3d6cbafc8": {
@@ -1456,7 +1494,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "00170d5a44a5": {
@@ -1467,7 +1505,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "a01896ba90ec": {
@@ -1478,7 +1516,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "9cfdd56644b2": {
@@ -1489,7 +1527,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "3ff41cc6808f": {
@@ -1500,7 +1538,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "63d8c9821fdd": {
@@ -1511,7 +1549,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "bb62a3f2bb42": {
@@ -1546,7 +1584,7 @@
    "location": "London",
    "sector": "Campaigns & policy",
    "source": "job data in page",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "0cea1a8af00d": {
@@ -1555,9 +1593,9 @@
    "title": "Philanthropy Manager",
    "url": "https://www.charityjob.co.uk/jobs/wateraid/philanthropy-manager/1088574",
    "location": "",
-   "sector": "humanitarian aid",
+   "sector": "Humanitarian aid",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "f1640735479f": {
@@ -1566,9 +1604,9 @@
    "title": "Trust Manager",
    "url": "https://www.charityjob.co.uk/jobs/wateraid/trust-manager/1087955",
    "location": "",
-   "sector": "humanitarian aid",
+   "sector": "Humanitarian aid",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "8f11d64620cc": {
@@ -1580,7 +1618,8 @@
    "sector": "humanitarian aid",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "a2aa00f8fe66": {
    "org": "WaterAid",
@@ -1626,7 +1665,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "96c40180378e": {
    "org": "One Acre Fund",
@@ -1637,7 +1677,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "c817a1a52fa1": {
    "org": "One Acre Fund",
@@ -1660,7 +1701,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "bb1c14edc57b": {
    "org": "One Acre Fund",
@@ -1671,7 +1713,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "ad49c9c4c389": {
    "org": "One Acre Fund",
@@ -1682,7 +1725,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "f770f61ee505": {
    "org": "One Acre Fund",
@@ -1693,7 +1737,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "7d11ae7a5ada": {
    "org": "One Acre Fund",
@@ -1704,7 +1749,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "f7fad685ae8e": {
    "org": "One Acre Fund",
@@ -1715,7 +1761,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "5d2dfe1e4972": {
    "org": "One Acre Fund",
@@ -1726,7 +1773,8 @@
    "sector": "Food & agriculture",
    "source": "page scan",
    "last_seen": "2026-11-03",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-04"
   },
   "cc4463b48645": {
    "org": "IUCN",
@@ -1736,7 +1784,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open"
   },
   "e8addbcdc33c": {
@@ -1747,7 +1795,458 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "849b84760590": {
+   "org": "Global Organic Textile Standard (GOTS)",
+   "first_seen": "2026-11-04",
+   "title": "Administrative & Accounting Assistant",
+   "url": "https://global-standards.org/about/jobs/administrative-accounting-assistant",
+   "location": "",
+   "sector": "Fashion & circularity",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "a65b728caf4e": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-04",
+   "title": "AI & Automation Lead",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID%3d4054406MB8%1BUSESSION=F7577A538B0265D63FFCBA45C4C96382&WVID=5223411NZL&LANG=USA",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "1a60e20db607": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-04",
+   "title": "AI & Automation Lead REQ001047: Send to a friend",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC108GF.open?VACANCY_ID%3d4054406MB8%1BUSESSION=F7577A538B0265D63FFCBA45C4C96382&WVID=5223411NZL&LANG=USA",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "e99e8b15bfc4": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-04",
+   "title": "AI & Automation Lead REQ001047: Apply online",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC109DF.open?REQUEST=RET&PROFILE=VACANCY_ID.TVACANCY=4054406MB8&VACANCY_ID=4054406MB8&ACTION_ID=WEB_REC&USESSION=F7577A538B0265D63FFCBA45C4C96382&WVID=5223411NZL&LANG=USA&CONT=GUEST",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "ecd257a7a8e3": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-04",
+   "title": "AI & Automation Lead REQ001047 Job profile",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID%3d4054406MB8%1BUSESSION=F7577A538B0265D63FFCBA45C4C96382&WVID=5223411NZL&LANG=USA",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "848e3be3bf9e": {
+   "org": "Global Witness",
+   "first_seen": "2026-11-04",
+   "title": "Head of Legal",
+   "url": "https://globalwitness.org/en/careers/current-vacancies/head-of-legal-oct26/",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "4e707f7f4e03": {
+   "org": "Global Witness",
+   "first_seen": "2026-11-04",
+   "title": "Multimedia Officer",
+   "url": "https://globalwitness.org/en/careers/current-vacancies/multimedia-officer/",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "5942a1874a5b": {
+   "org": "Fauna & Flora",
+   "first_seen": "2026-11-04",
+   "title": "Grant Manager, Marine Protected Areas, Cabo Verde",
+   "url": "https://www.fauna-flora.org/about/career/grant-manager-marine-protected-areas_cabo-verde/",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "185e0b94d902": {
+   "org": "UNICEF UK",
+   "first_seen": "2026-11-04",
+   "title": "Interim Director of Soccer Aid",
+   "url": "https://www.unicef.org.uk/jobs/interim-director-of-soccer-aid/",
+   "location": "",
+   "sector": "Humanitarian aid",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "0f121a07b6d1": {
+   "org": "UNICEF UK",
+   "first_seen": "2026-11-04",
+   "title": "Senior Philanthropy Manager - Maternity Cover",
+   "url": "https://www.unicef.org.uk/jobs/senior-philanthropy-manager-maternity-cover/",
+   "location": "",
+   "sector": "Humanitarian aid",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "37284915e94b": {
+   "org": "WaterAid",
+   "first_seen": "2026-11-04",
+   "title": "Senior Partnerships Officer (Fundraising and Events)",
+   "url": "https://www.charityjob.co.uk/jobs/wateraid/senior-partnerships-officer-fundraising-and-events-/1087196",
+   "location": "",
+   "sector": "Humanitarian aid",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "a2a749bbbfb5": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Project Operations Assistant",
+   "url": "https://www.wri.org/careers/jobs/project-operations-assistant-2026-jr100545",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "4cf8409264eb": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Utah Watershed Restoration & Partnerships Manager",
+   "url": "https://www.wri.org/careers/jobs/utah-watershed-restoration-partnerships-manager-2026-jr100549",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "604314ec9f52": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Development Associate, FOLU",
+   "url": "https://www.wri.org/careers/jobs/development-associate-folu-2026-jr100535",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "33e96bb4b15b": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Subsidiary Office Accountant",
+   "url": "https://www.wri.org/careers/jobs/subsidiary-office-accountant-2026-jr100505",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "fbf773c341a0": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Research Analyst for Extended Producer Responsibilities (EPR) for Packaging",
+   "url": "https://www.wri.org/careers/jobs/research-analyst-extended-producer-responsibilities-epr-packaging-2026-jr100538",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "25bfdaebe1c7": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Senior Research Lead for Extended Producer Responsibilities (EPR) for Packaging",
+   "url": "https://www.wri.org/careers/jobs/senior-research-lead-extended-producer-responsibilities-epr-packaging-2026-jr100537",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "efe9a1cacefe": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "CHAMP Advisor",
+   "url": "https://www.wri.org/careers/jobs/champ-advisor-2026-jr100534",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "f5a5551e183d": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Senior AI Engineer",
+   "url": "https://www.wri.org/careers/jobs/senior-ai-engineer-2026-jr100536",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "fc9594983975": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Workday PATT & Payroll Accounting Specialist",
+   "url": "https://www.wri.org/careers/jobs/workday-patt-payroll-accounting-specialist-2026-jr100533",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "f3cdf4bc1228": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Manager, Financial Planning and Analysis",
+   "url": "https://www.wri.org/careers/jobs/manager-financial-planning-and-analysis-2026-jr100460",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "6263821b8cda": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Europe Regional Accounting Manager",
+   "url": "https://www.wri.org/careers/jobs/europe-regional-accounting-manager-2026-jr100473",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "3866512872c0": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Accountant",
+   "url": "https://www.wri.org/careers/jobs/accountant-2026-jr100529",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "760067e3b5f8": {
+   "org": "World Resources Institute",
+   "first_seen": "2026-11-04",
+   "title": "Associate - Budget Analyst",
+   "url": "https://www.wri.org/careers/jobs/associate-budget-analyst-2026-jr100434",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "699bb00be0a2": {
+   "org": "Opportunity Green",
+   "first_seen": "2026-11-04",
+   "title": "One year at OG with our EU Advocacy Manager, Delphine",
+   "url": "https://opportunitygreen.org/organisation/insights/one-year-at-og-with-advocacy-manager-delphine/",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "edecd6b8bb45": {
+   "org": "Opportunity Green",
+   "first_seen": "2026-11-04",
+   "title": "Delphine looks back at her first successful year as OG's EU Advocacy Manager, based in Brussels.",
+   "url": "https://opportunitygreen.org/organisation/insights/one-year-at-og-with-advocacy-manager-delphine/",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "5b5c78182d27": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Carbon Analyst",
+   "url": "https://jobs.ashbyhq.com/sylvera/c13b52bb-4162-4d30-b233-487abdb08944",
+   "location": "London",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "e0ce64ecfa09": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Account Executive",
+   "url": "https://jobs.ashbyhq.com/sylvera/c620b4d1-6c90-40ca-a597-b33898e43a73",
+   "location": "New York",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "7ea23dced331": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Account Executive",
+   "url": "https://jobs.ashbyhq.com/sylvera/b56e5d3e-6961-4d61-916e-e1e05b94d41b",
+   "location": "Sao Paulo",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "41697f3cfb13": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Regulatory Compliance Officer",
+   "url": "https://jobs.ashbyhq.com/sylvera/a9c1a339-cfd9-4f8b-9af9-91cd33a7f416",
+   "location": "Ireland",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "9c663238514b": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Account Executive",
+   "url": "https://jobs.ashbyhq.com/sylvera/98b1c405-f3a7-42e2-b058-158a879a424d",
+   "location": "London",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "94cc0a078bb4": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Sales Development Representative",
+   "url": "https://jobs.ashbyhq.com/sylvera/06e928c6-a28a-42c1-8e11-6a4832f1e72a",
+   "location": "Singapore",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "9bbd30114587": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Sales Development Representative",
+   "url": "https://jobs.ashbyhq.com/sylvera/cfd5cca1-6264-48a1-b68c-a95bfa0db577",
+   "location": "Sao Paulo",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "ef236ed73534": {
+   "org": "Sylvera",
+   "first_seen": "2026-11-04",
+   "title": "Product Manager",
+   "url": "https://jobs.ashbyhq.com/sylvera/49f41048-9a35-4455-8c4e-eb8688661509",
+   "location": "London",
+   "sector": "Carbon",
+   "source": "recruitment software (ashby)",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "7bcb6e5f1217": {
+   "org": "EarthWatch Europe",
+   "first_seen": "2026-11-04",
+   "title": "Chief Executive Officer",
+   "url": "https://earthwatch.org.uk/job/chief-executive-officer/",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "ab84dc8dd2ad": {
+   "org": "EarthWatch Europe",
+   "first_seen": "2026-11-04",
+   "title": "Equity, Diversity, Inclusion and Belonging Policy",
+   "url": "https://earthwatch.org.uk/wp-content/uploads/2026/03/Equity-Diversity-Inclusion-and-Belonging-Policy.pdf",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "cd556c2560e6": {
+   "org": "IIED",
+   "first_seen": "2026-11-04",
+   "title": "Early careers programme",
+   "url": "https://www.iied.org/early-careers-programme",
+   "location": "",
+   "sector": "Think tank",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "4635ad205a89": {
+   "org": "Hope for Future",
+   "first_seen": "2026-11-04",
+   "title": "Chair of Trustees",
+   "url": "https://www.hopeforthefuture.org.uk/about-us/jobs/chair-of-trustees",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "dba2fbfe22ac": {
+   "org": "Hope for Future",
+   "first_seen": "2026-11-04",
+   "title": "Read our Hybrid Working Policy",
+   "url": "https://www.hopeforthefuture.org.uk/assets/resources/home-working-hybrid-working-policy-2025.pdf",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "606ab7409224": {
+   "org": "Hope for Future",
+   "first_seen": "2026-11-04",
+   "title": "Read our Flexible Working Policy",
+   "url": "https://www.hopeforthefuture.org.uk/assets/resources/flexible-working-policy-2025.pdf",
+   "location": "",
+   "sector": "Campaigns & policy",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
+   "status": "open"
+  },
+  "5190e21d1bba": {
+   "org": "Ashden",
+   "first_seen": "2026-11-04",
+   "title": "read our policy here.",
+   "url": "https://www.sfct.org.uk/wp-content/uploads/2024/10/Safeguarding-Policy-Rebranded-new.pdf",
+   "location": "",
+   "sector": "Climate",
+   "source": "page scan",
+   "last_seen": "2026-11-04",
    "status": "open"
   }
  }
