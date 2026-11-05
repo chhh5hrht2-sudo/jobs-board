@@ -60,7 +60,7 @@
   "method": "",
   "found": 0,
   "open": 0,
-  "error": "Website didn't respond"
+  "error": "Website returned an error (403)"
  },
  {
   "name": "The Elders",
@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "InfluenceMap",
@@ -274,8 +274,8 @@
   "sector": "Nature",
   "checked": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC106GF.display_srch_all?WVID=5223411NZL",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 8,
+  "open": 8,
   "error": ""
  },
  {
@@ -616,8 +616,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.charityjob.co.uk/organisation/wateraid#org-profile-jobs",
   "method": "page scan",
-  "found": 3,
-  "open": 3,
+  "found": 4,
+  "open": 4,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 13,
-  "open": 13,
+  "found": 16,
+  "open": 16,
   "error": ""
  },
  {
@@ -679,8 +679,8 @@
   "sector": "Carbon",
   "checked": "https://jobs.ashbyhq.com/sylvera?locationId=a5fc2262-ca10-421e-b420-4246a385fa1e",
   "method": "recruitment software (ashby)",
-  "found": 8,
-  "open": 8,
+  "found": 7,
+  "open": 7,
   "error": ""
  },
  {
@@ -760,8 +760,8 @@
   "sector": "Nature",
   "checked": "https://earthwatch.org.uk/jobs/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
