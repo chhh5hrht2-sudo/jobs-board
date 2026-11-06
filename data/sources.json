@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "InfluenceMap",
@@ -183,10 +183,10 @@
   "name": "Global Alliance for the Future of Food",
   "sector": "Food & agriculture",
   "checked": "https://futureoffood.org/work-with-us/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "One Acre Fund",
@@ -210,10 +210,10 @@
   "name": "Global Canopy",
   "sector": "Nature",
   "checked": "https://globalcanopy.org/jobs/",
-  "method": "",
-  "found": 0,
-  "open": 0,
-  "error": "Website returned an error (403)"
+  "method": "page scan",
+  "found": 18,
+  "open": 18,
+  "error": ""
  },
  {
   "name": "IUCN",
@@ -525,10 +525,10 @@
   "name": "Confederation of British Industry (CBI)",
   "sector": "Sustainable business",
   "checked": "https://www.linkedin.com/company/cbi/jobs/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Pesticide Action Network UK",
@@ -607,8 +607,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.unicef.org.uk/careers/jobs-available/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 16,
-  "open": 16,
+  "found": 17,
+  "open": 17,
   "error": ""
  },
  {
