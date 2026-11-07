@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "InfluenceMap",
@@ -616,8 +616,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.charityjob.co.uk/organisation/wateraid#org-profile-jobs",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 17,
-  "open": 17,
+  "found": 16,
+  "open": 16,
   "error": ""
  },
  {
