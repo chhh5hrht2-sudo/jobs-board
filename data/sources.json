@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "InfluenceMap",
