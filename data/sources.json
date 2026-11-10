@@ -40,8 +40,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://sciencebasedtargetsnetwork.org/jobs/",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -111,10 +111,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
-  "open": 1,
-  "error": "Website didn't respond"
+  "open": 0,
+  "error": ""
  },
  {
   "name": "National Energy System Operator (NESO)",
@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "InfluenceMap",
@@ -220,8 +220,8 @@
   "sector": "Nature",
   "checked": "https://hrms.iucn.org/iresy/index.cfm?event=vac.showOpenList",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -300,10 +300,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org/about/job-vacancies/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
-  "open": 2,
-  "error": "Website returned an error (520)"
+  "open": 0,
+  "error": ""
  },
  {
   "name": "Global Maritime Forum",
@@ -508,8 +508,8 @@
   "sector": "Nature",
   "checked": "https://www.fauna-flora.org/career/",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -570,9 +570,9 @@
   "name": "The British Council",
   "sector": "Campaigns & policy",
   "checked": "https://careers.britishcouncil.org/careers?start=0&location=London%2C++England%2C++United+Kingdom&pid=563705892983190&sort_by=distance&filter_distance=16&filter_include_remote=1&filter_include_relocation=0",
-  "method": "job data in page",
-  "found": 1,
-  "open": 1,
+  "method": "page scan",
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -607,8 +607,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.unicef.org.uk/careers/jobs-available/",
   "method": "page scan",
-  "found": 3,
-  "open": 3,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -616,8 +616,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.charityjob.co.uk/organisation/wateraid#org-profile-jobs",
   "method": "page scan",
-  "found": 3,
-  "open": 3,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 16,
-  "open": 16,
+  "found": 17,
+  "open": 17,
   "error": ""
  },
  {
@@ -777,10 +777,10 @@
   "name": "Finance Earth",
   "sector": "Finance",
   "checked": "https://finance.earth/careers/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website didn't respond"
+  "error": ""
  },
  {
   "name": "Platform",
