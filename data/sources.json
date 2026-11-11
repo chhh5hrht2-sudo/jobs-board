@@ -111,10 +111,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "National Energy System Operator (NESO)",
@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "InfluenceMap",
@@ -220,8 +220,8 @@
   "sector": "Nature",
   "checked": "https://hrms.iucn.org/iresy/index.cfm?event=vac.showOpenList",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 2,
+  "open": 2,
   "error": ""
  },
  {
@@ -300,10 +300,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org/about/job-vacancies/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (520)"
  },
  {
   "name": "Global Maritime Forum",
@@ -382,8 +382,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://globalwitness.org/en/careers/current-vacancies/",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 2,
+  "open": 2,
   "error": ""
  },
  {
@@ -525,10 +525,10 @@
   "name": "Confederation of British Industry (CBI)",
   "sector": "Sustainable business",
   "checked": "https://www.linkedin.com/company/cbi/jobs/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "Pesticide Action Network UK",
@@ -543,10 +543,10 @@
   "name": "Rainforest Foundation UK",
   "sector": "Nature",
   "checked": "https://www.rainforestfoundationuk.org/about-us/jobs-opportunities/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Royal Society for the Protection of Birds (RSPB)",
@@ -598,8 +598,8 @@
   "sector": "Cities",
   "checked": "https://ukgbc.org/opportunities/#Opportunities",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 2,
+  "open": 2,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 17,
-  "open": 17,
+  "found": 16,
+  "open": 16,
   "error": ""
  },
  {
@@ -777,10 +777,10 @@
   "name": "Finance Earth",
   "sector": "Finance",
   "checked": "https://finance.earth/careers/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Platform",
