@@ -543,10 +543,10 @@
   "name": "Rainforest Foundation UK",
   "sector": "Nature",
   "checked": "https://www.rainforestfoundationuk.org/about-us/jobs-opportunities/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website didn't respond"
+  "error": ""
  },
  {
   "name": "Royal Society for the Protection of Birds (RSPB)",
@@ -615,10 +615,10 @@
   "name": "WaterAid",
   "sector": "Humanitarian aid",
   "checked": "https://www.charityjob.co.uk/organisation/wateraid#org-profile-jobs",
-  "method": "page scan",
-  "found": 1,
+  "method": "",
+  "found": 0,
   "open": 1,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Zoological Society of London (ZSL)",
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 16,
-  "open": 16,
+  "found": 19,
+  "open": 19,
   "error": ""
  },
  {
@@ -768,10 +768,10 @@
   "name": "British Ecological Society",
   "sector": "Nature",
   "checked": "https://www.britishecologicalsociety.org/about/get-involved/vacancies/",
-  "method": "",
-  "found": 0,
-  "open": 0,
-  "error": "Website returned an error (403)"
+  "method": "page scan",
+  "found": 3,
+  "open": 3,
+  "error": ""
  },
  {
   "name": "Finance Earth",
