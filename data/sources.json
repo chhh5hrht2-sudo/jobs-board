@@ -76,8 +76,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.upliftuk.org/jobs",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 2,
+  "open": 2,
   "error": ""
  },
  {
@@ -130,8 +130,8 @@
   "sector": "Energy",
   "checked": "https://group.smartestenergy.com/careers/?query=&CityNames=London",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 5,
+  "open": 5,
   "error": ""
  },
  {
@@ -508,8 +508,8 @@
   "sector": "Nature",
   "checked": "https://www.fauna-flora.org/career/",
   "method": "page scan",
-  "found": 3,
-  "open": 3,
+  "found": 4,
+  "open": 4,
   "error": ""
  },
  {
@@ -607,8 +607,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.unicef.org.uk/careers/jobs-available/",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 2,
+  "open": 2,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 19,
-  "open": 19,
+  "found": 15,
+  "open": 15,
   "error": ""
  },
  {
