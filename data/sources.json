@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "InfluenceMap",
@@ -274,8 +274,8 @@
   "sector": "Nature",
   "checked": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC106GF.display_srch_all?WVID=5223411NZL",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -418,8 +418,8 @@
   "sector": "Campaigns & Policy",
   "checked": "https://practicalaction.org/careers/#block6%20careers-listing",
   "method": "page scan",
-  "found": 1,
-  "open": 1,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 15,
-  "open": 15,
+  "found": 14,
+  "open": 14,
   "error": ""
  },
  {
@@ -679,8 +679,8 @@
   "sector": "Carbon",
   "checked": "https://jobs.ashbyhq.com/sylvera?locationId=a5fc2262-ca10-421e-b420-4246a385fa1e",
   "method": "recruitment software (ashby)",
-  "found": 7,
-  "open": 7,
+  "found": 8,
+  "open": 8,
   "error": ""
  },
  {
