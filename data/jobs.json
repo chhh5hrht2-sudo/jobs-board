@@ -9,7 +9,7 @@
    "location": "",
    "sector": "Humanitarian aid",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "ac3aabb7767f": {
@@ -20,7 +20,7 @@
    "location": "",
    "sector": "Sustainable business",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "a8ce8c50b2ff": {
@@ -286,7 +286,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "9ba46c2ed0f6": {
@@ -297,7 +297,7 @@
    "location": "",
    "sector": "Transport",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "b3ad6b402c71": {
@@ -331,7 +331,7 @@
    "location": "",
    "sector": "Food & agriculture",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "d02f2d39228e": {
@@ -1341,7 +1341,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "161e96f031b8": {
@@ -1387,7 +1387,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "e2dd257cc1c5": {
@@ -1398,7 +1398,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "c433b3d77ae3": {
@@ -1409,7 +1409,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "8ac9db437317": {
@@ -1480,7 +1480,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "f3672b7cc7de": {
@@ -1491,7 +1491,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "dad3d6cbafc8": {
@@ -1502,7 +1502,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "00170d5a44a5": {
@@ -1513,7 +1513,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "a01896ba90ec": {
@@ -1524,7 +1524,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "9cfdd56644b2": {
@@ -1535,7 +1535,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "3ff41cc6808f": {
@@ -1546,7 +1546,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "63d8c9821fdd": {
@@ -1557,7 +1557,7 @@
    "location": "",
    "sector": "Environment",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "bb62a3f2bb42": {
@@ -1819,7 +1819,7 @@
    "location": "",
    "sector": "Fashion & circularity",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "a65b728caf4e": {
@@ -1879,7 +1879,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "4e707f7f4e03": {
    "org": "Global Witness",
@@ -1901,7 +1902,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "185e0b94d902": {
@@ -1949,7 +1950,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "4cf8409264eb": {
    "org": "World Resources Institute",
@@ -1959,7 +1961,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "604314ec9f52": {
@@ -1983,7 +1985,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "fbf773c341a0": {
    "org": "World Resources Institute",
@@ -2017,7 +2020,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "f5a5551e183d": {
@@ -2052,7 +2055,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "6263821b8cda": {
@@ -2064,7 +2067,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "3866512872c0": {
    "org": "World Resources Institute",
@@ -2086,7 +2090,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "699bb00be0a2": {
@@ -2097,7 +2101,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "edecd6b8bb45": {
@@ -2108,7 +2112,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "5b5c78182d27": {
@@ -2119,7 +2123,7 @@
    "location": "London",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "e0ce64ecfa09": {
@@ -2142,7 +2146,7 @@
    "location": "Sao Paulo",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "41697f3cfb13": {
@@ -2153,7 +2157,7 @@
    "location": "Ireland",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "9c663238514b": {
@@ -2164,7 +2168,7 @@
    "location": "London",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "94cc0a078bb4": {
@@ -2175,7 +2179,7 @@
    "location": "Singapore",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "9bbd30114587": {
@@ -2186,7 +2190,7 @@
    "location": "Sao Paulo",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "ef236ed73534": {
@@ -2197,7 +2201,7 @@
    "location": "London",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "7bcb6e5f1217": {
@@ -2209,7 +2213,8 @@
    "sector": "Nature",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "ab84dc8dd2ad": {
    "org": "EarthWatch Europe",
@@ -2219,7 +2224,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "cd556c2560e6": {
@@ -2230,7 +2235,7 @@
    "location": "",
    "sector": "Think tank",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "4635ad205a89": {
@@ -2241,7 +2246,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "dba2fbfe22ac": {
@@ -2252,7 +2257,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "606ab7409224": {
@@ -2263,7 +2268,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "5190e21d1bba": {
@@ -2274,7 +2279,7 @@
    "location": "",
    "sector": "Climate",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "1bcdc10dd64c": {
@@ -2392,7 +2397,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "0f625aad943f": {
@@ -2403,7 +2408,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "d2ab8d81c8b9": {
@@ -2414,7 +2419,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "aec312a222cd": {
@@ -2426,7 +2431,8 @@
    "sector": "Nature",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "93c62efafefd": {
    "org": "Global Canopy",
@@ -2436,7 +2442,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "995591dc36cc": {
@@ -2447,7 +2453,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "61a34981f1de": {
@@ -2458,7 +2464,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "2f1c85affcbd": {
@@ -2469,7 +2475,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "1415dd786938": {
@@ -2480,7 +2486,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "b21a6e4c42dd": {
@@ -2491,7 +2497,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "a91c69f7dd32": {
@@ -2502,7 +2508,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "1c9ac65932da": {
@@ -2513,7 +2519,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "60fe2e12e451": {
@@ -2524,7 +2530,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "6c752da50ecf": {
@@ -2535,7 +2541,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "8b05384e0afc": {
@@ -2546,7 +2552,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "a7b9071ef716": {
@@ -2557,7 +2563,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "de04c3460974": {
@@ -2568,7 +2574,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "f8bf28bf9b93": {
@@ -2579,7 +2585,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "733a8af355c6": {
@@ -2590,7 +2596,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "cf9959c49808": {
@@ -2601,7 +2607,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "11ec260431f8": {
@@ -2612,7 +2618,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "0636f7d19ce3": {
@@ -2623,7 +2629,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "e40778654ea2": {
@@ -2730,7 +2736,7 @@
    "location": "",
    "sector": "Humanitarian aid",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "2e52ec4c3544": {
@@ -3041,7 +3047,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "6610534844d7": {
@@ -3076,7 +3082,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "9c5201341741": {
@@ -3087,7 +3093,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "718ea1773f6d": {
@@ -3147,7 +3153,8 @@
    "sector": "Campaigns & policy",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "99de5dc21235": {
    "org": "UK Green Building Council",
@@ -3158,7 +3165,8 @@
    "sector": "Cities",
    "source": "page scan",
    "last_seen": "2026-11-16",
-   "status": "open"
+   "status": "closed",
+   "closed_on": "2026-11-17"
   },
   "ff6febcc580b": {
    "org": "UK Green Building Council",
@@ -3168,7 +3176,7 @@
    "location": "",
    "sector": "Cities",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "c6a7bd6ef31b": {
@@ -3179,7 +3187,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "b54dc5590ccc": {
@@ -3238,7 +3246,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "604f0b227a7b": {
@@ -3249,7 +3257,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "4a518a5f36ad": {
@@ -3260,7 +3268,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "f03849eaa3fc": {
@@ -3271,7 +3279,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "adf09fb10082": {
@@ -3282,7 +3290,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "ab0073dc34da": {
@@ -3293,7 +3301,7 @@
    "location": "",
    "sector": "Campaigns & policy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "d0e5ec737958": {
@@ -3304,7 +3312,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "c9a45ac2b193": {
@@ -3315,7 +3323,7 @@
    "location": "",
    "sector": "Energy",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "d2b6a95542ed": {
@@ -3374,7 +3382,7 @@
    "location": "",
    "sector": "Nature",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "53abdc3be127": {
@@ -3385,7 +3393,7 @@
    "location": "",
    "sector": "Humanitarian aid",
    "source": "page scan",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
    "status": "open"
   },
   "7d06e565cbfe": {
@@ -3396,7 +3404,73 @@
    "location": "London",
    "sector": "Carbon",
    "source": "recruitment software (ashby)",
-   "last_seen": "2026-11-16",
+   "last_seen": "2026-11-17",
+   "status": "open"
+  },
+  "8be4c6844dcf": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-17",
+   "title": "Communications Executive",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID%3d6081276Nel%1BUSESSION=24F6A6E0F86204C0D899B71400C7C83B&WVID=5223411NZL&LANG=USA",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-17",
+   "status": "open"
+  },
+  "b02ec01cf88b": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-17",
+   "title": "Communications Executive REQ001050: Send to a friend",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC108GF.open?VACANCY_ID%3d6081276Nel%1BUSESSION=24F6A6E0F86204C0D899B71400C7C83B&WVID=5223411NZL&LANG=USA",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-17",
+   "status": "open"
+  },
+  "f0016d0c53f8": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-17",
+   "title": "Communications Executive REQ001050: Apply online",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC109DF.open?REQUEST=RET&PROFILE=VACANCY_ID.TVACANCY=6081276Nel&VACANCY_ID=6081276Nel&ACTION_ID=WEB_REC&USESSION=24F6A6E0F86204C0D899B71400C7C83B&WVID=5223411NZL&LANG=USA&CONT=GUEST",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-17",
+   "status": "open"
+  },
+  "09ef45d1efbe": {
+   "org": "WWF-UK",
+   "first_seen": "2026-11-17",
+   "title": "Communications Executive REQ001050 Job profile",
+   "url": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID%3d6081276Nel%1BUSESSION=24F6A6E0F86204C0D899B71400C7C83B&WVID=5223411NZL&LANG=USA",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-17",
+   "status": "open"
+  },
+  "f7cf8a7d55b4": {
+   "org": "Fauna & Flora",
+   "first_seen": "2026-11-17",
+   "title": "Fundraising Events Manager",
+   "url": "https://www.fauna-flora.org/about/career/fundraising-events-manager/",
+   "location": "",
+   "sector": "Nature",
+   "source": "page scan",
+   "last_seen": "2026-11-17",
+   "status": "open"
+  },
+  "b65e20e7cede": {
+   "org": "UK Green Building Council",
+   "first_seen": "2026-11-17",
+   "title": "Administrator",
+   "url": "https://ukgbc.org/?post_type=opportunity&p=72400",
+   "location": "",
+   "sector": "Cities",
+   "source": "page scan",
+   "last_seen": "2026-11-17",
    "status": "open"
   }
  }

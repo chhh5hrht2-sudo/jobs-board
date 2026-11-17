@@ -274,8 +274,8 @@
   "sector": "Nature",
   "checked": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC106GF.display_srch_all?WVID=5223411NZL",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 4,
+  "open": 4,
   "error": ""
  },
  {
@@ -382,8 +382,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://globalwitness.org/en/careers/current-vacancies/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -508,8 +508,8 @@
   "sector": "Nature",
   "checked": "https://www.fauna-flora.org/career/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 14,
-  "open": 14,
+  "found": 11,
+  "open": 11,
   "error": ""
  },
  {
@@ -760,8 +760,8 @@
   "sector": "Nature",
   "checked": "https://earthwatch.org.uk/jobs/",
   "method": "page scan",
-  "found": 3,
-  "open": 3,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -804,10 +804,10 @@
   "name": "Ember",
   "sector": "Think tank",
   "checked": "https://ember-energy.org/about/careers/#vacancies",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Energy and Climate Intelligence Unit",
