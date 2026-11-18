@@ -111,10 +111,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "National Energy System Operator (NESO)",
@@ -220,8 +220,8 @@
   "sector": "Nature",
   "checked": "https://hrms.iucn.org/iresy/index.cfm?event=vac.showOpenList",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 0,
+  "open": 0,
   "error": ""
  },
  {
@@ -274,8 +274,8 @@
   "sector": "Nature",
   "checked": "https://ce0449li.webitrent.com/ce0449li_webrecruitment/wrd/run/ETREC106GF.display_srch_all?WVID=5223411NZL",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 8,
+  "open": 8,
   "error": ""
  },
  {
@@ -300,10 +300,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org/about/job-vacancies/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (520)"
  },
  {
   "name": "Global Maritime Forum",
@@ -607,8 +607,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.unicef.org.uk/careers/jobs-available/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 11,
-  "open": 11,
+  "found": 9,
+  "open": 9,
   "error": ""
  },
  {
@@ -679,8 +679,8 @@
   "sector": "Carbon",
   "checked": "https://jobs.ashbyhq.com/sylvera?locationId=a5fc2262-ca10-421e-b420-4246a385fa1e",
   "method": "recruitment software (ashby)",
-  "found": 8,
-  "open": 8,
+  "found": 7,
+  "open": 7,
   "error": ""
  },
  {
@@ -777,10 +777,10 @@
   "name": "Finance Earth",
   "sector": "Finance",
   "checked": "https://finance.earth/careers/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Platform",
@@ -822,10 +822,10 @@
   "name": "Aldersgate Group",
   "sector": "Think tank",
   "checked": "https://www.aldersgategroup.org.uk/aims/work-with-us/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (522)"
  },
  {
   "name": "ODI Global",
