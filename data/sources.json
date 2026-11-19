@@ -111,10 +111,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website didn't respond"
+  "error": ""
  },
  {
   "name": "National Energy System Operator (NESO)",
@@ -130,8 +130,8 @@
   "sector": "Energy",
   "checked": "https://group.smartestenergy.com/careers/?query=&CityNames=London",
   "method": "page scan",
-  "found": 5,
-  "open": 5,
+  "found": 4,
+  "open": 4,
   "error": ""
  },
  {
@@ -300,10 +300,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org/about/job-vacancies/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (520)"
+  "error": ""
  },
  {
   "name": "Global Maritime Forum",
@@ -607,8 +607,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.unicef.org.uk/careers/jobs-available/",
   "method": "page scan",
-  "found": 3,
-  "open": 3,
+  "found": 2,
+  "open": 2,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 9,
-  "open": 9,
+  "found": 12,
+  "open": 12,
   "error": ""
  },
  {
@@ -777,10 +777,10 @@
   "name": "Finance Earth",
   "sector": "Finance",
   "checked": "https://finance.earth/careers/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website didn't respond"
+  "error": ""
  },
  {
   "name": "Platform",
@@ -804,10 +804,10 @@
   "name": "Ember",
   "sector": "Think tank",
   "checked": "https://ember-energy.org/about/careers/#vacancies",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "Energy and Climate Intelligence Unit",
@@ -822,10 +822,10 @@
   "name": "Aldersgate Group",
   "sector": "Think tank",
   "checked": "https://www.aldersgategroup.org.uk/aims/work-with-us/",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (522)"
+  "error": ""
  },
  {
   "name": "ODI Global",
@@ -858,10 +858,10 @@
   "name": "IPPR",
   "sector": "Think tank",
   "checked": "https://www.ippr.org/jobs",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Common Wealth",
