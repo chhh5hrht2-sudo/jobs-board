@@ -111,10 +111,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "National Energy System Operator (NESO)",
@@ -130,8 +130,8 @@
   "sector": "Energy",
   "checked": "https://group.smartestenergy.com/careers/?query=&CityNames=London",
   "method": "page scan",
-  "found": 4,
-  "open": 4,
+  "found": 5,
+  "open": 5,
   "error": ""
  },
  {
@@ -300,10 +300,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org/about/job-vacancies/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (520)"
  },
  {
   "name": "Global Maritime Forum",
@@ -328,8 +328,8 @@
   "sector": "Carbon",
   "checked": "https://apply.workable.com/tracker-group/?lng=en",
   "method": "recruitment software (workable)",
-  "found": 0,
-  "open": 0,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -418,8 +418,8 @@
   "sector": "Campaigns & Policy",
   "checked": "https://practicalaction.org/careers/#block6%20careers-listing",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -607,8 +607,8 @@
   "sector": "Humanitarian aid",
   "checked": "https://www.unicef.org.uk/careers/jobs-available/",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 3,
+  "open": 3,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 12,
-  "open": 12,
+  "found": 13,
+  "open": 13,
   "error": ""
  },
  {
@@ -777,10 +777,10 @@
   "name": "Finance Earth",
   "sector": "Finance",
   "checked": "https://finance.earth/careers/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Platform",
@@ -804,10 +804,10 @@
   "name": "Ember",
   "sector": "Think tank",
   "checked": "https://ember-energy.org/about/careers/#vacancies",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (403)"
  },
  {
   "name": "Energy and Climate Intelligence Unit",
