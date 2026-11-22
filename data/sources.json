@@ -120,10 +120,10 @@
   "name": "National Energy System Operator (NESO)",
   "sector": "Energy",
   "checked": "https://neso.wd103.myworkdayjobs.com/Careers",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (429)"
  },
  {
   "name": "SmartestEnergy",
@@ -552,10 +552,10 @@
   "name": "Royal Society for the Protection of Birds (RSPB)",
   "sector": "Nature",
   "checked": "https://www.rspb.org.uk/careers/vacancies-listing",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Synchronicity Earth",
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 12,
-  "open": 12,
+  "found": 11,
+  "open": 11,
   "error": ""
  },
  {
