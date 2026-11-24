@@ -111,10 +111,10 @@
   "name": "LDES Council",
   "sector": "Energy",
   "checked": "https://ldescouncil.com/job-openings/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "National Energy System Operator (NESO)",
@@ -130,8 +130,8 @@
   "sector": "Energy",
   "checked": "https://group.smartestenergy.com/careers/?query=&CityNames=London",
   "method": "page scan",
-  "found": 5,
-  "open": 5,
+  "found": 4,
+  "open": 4,
   "error": ""
  },
  {
@@ -139,8 +139,8 @@
   "sector": "Energy",
   "checked": "https://www.seforall.org/get-involved/jobs-procurements",
   "method": "page scan",
-  "found": 2,
-  "open": 2,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -156,10 +156,10 @@
   "name": "Hubbub",
   "sector": "Fashion & circularity",
   "checked": "https://hubbub.org.uk/join-the-team",
-  "method": "",
+  "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": "Website returned an error (403)"
+  "error": ""
  },
  {
   "name": "InfluenceMap",
@@ -300,10 +300,10 @@
   "name": "Whale and Dolphin Conservation",
   "sector": "Ocean",
   "checked": "https://uk.whales.org/about/job-vacancies/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website returned an error (520)"
  },
  {
   "name": "Global Maritime Forum",
@@ -534,10 +534,10 @@
   "name": "Pesticide Action Network UK",
   "sector": "Nature",
   "checked": "https://www.pan-uk.org/vacancies/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Rainforest Foundation UK",
@@ -679,8 +679,8 @@
   "sector": "Carbon",
   "checked": "https://jobs.ashbyhq.com/sylvera?locationId=a5fc2262-ca10-421e-b420-4246a385fa1e",
   "method": "recruitment software (ashby)",
-  "found": 8,
-  "open": 8,
+  "found": 7,
+  "open": 7,
   "error": ""
  },
  {
@@ -777,10 +777,10 @@
   "name": "Finance Earth",
   "sector": "Finance",
   "checked": "https://finance.earth/careers/",
-  "method": "page scan",
+  "method": "",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Website didn't respond"
  },
  {
   "name": "Platform",
