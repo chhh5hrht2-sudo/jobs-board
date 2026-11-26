@@ -227,11 +227,11 @@
  {
   "name": "Nature4Climate",
   "sector": "Nature",
-  "checked": "https://nature4climate.org/category/jobs/",
+  "checked": "https://nature4climate.org",
   "method": "page scan",
   "found": 0,
   "open": 0,
-  "error": ""
+  "error": "Couldn't find a careers page link on the homepage"
  },
  {
   "name": "NatureMetrics",
@@ -364,8 +364,8 @@
   "sector": "Sustainable business",
   "checked": "https://circle-economy.jobs.personio.com/",
   "method": "recruitment software (personio)",
-  "found": 0,
-  "open": 0,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
@@ -436,8 +436,8 @@
   "sector": "Environment",
   "checked": "https://soils.org.uk/careers-vacancies/vacancies/",
   "method": "page scan",
-  "found": 8,
-  "open": 8,
+  "found": 9,
+  "open": 9,
   "error": ""
  },
  {
@@ -661,8 +661,8 @@
   "sector": "Campaigns & policy",
   "checked": "https://www.wri.org/careers/jobs",
   "method": "page scan",
-  "found": 16,
-  "open": 16,
+  "found": 17,
+  "open": 17,
   "error": ""
  },
  {
@@ -733,8 +733,8 @@
   "sector": "Nature",
   "checked": "https://www.cpre.org.uk/about-us/jobs/",
   "method": "page scan",
-  "found": 0,
-  "open": 0,
+  "found": 1,
+  "open": 1,
   "error": ""
  },
  {
